@@ -1,0 +1,51 @@
+Radio Porao,https://server03.stmsg.com.br:6678/stream
+Morcegao FM,https://radio.morcegaofm.com.br/morcegao32
+MundoLivre FM,https://up-rcr.webnow.com.br/mundolivre.mp3
+GTA Classics,https://gta-classics.stream.laut.fm/gta-classics
+u80s,https://ice6.somafm.com/u80s-128-mp3
+Metal Detector,https://ice4.somafm.com/metal-128-mp3
+181-beatles_128k,https://listen.181fm.com/181-beatles_128k.mp3
+89Rock,https://21933.live.streamtheworld.com/RADIO_89FM_ADP.aac
+Morcegao FM,https://radio.morcegaofm.com.br/morcegao128
+Morcegao FM Auto,https://radio.morcegaofm.com.br/auto
+Los Santos Rock,/mp3/Los Santos Rock Radio.mp3
+Radio Estilo Leblon,https://us4.internet-radio.com/proxy/radioestiloleblon?mp=/stream
+David,https://uk1.internet-radio.com/proxy/freetradezone?mp=/stream
+Cherwell,https://uk6.internet-radio.com/proxy/cherwell?mp=/stream
+CanCheers,https://us3.internet-radio.com/proxy/cancheers?mp=/stream
+Radio west Middlesex,https://uk6.internet-radio.com/proxy/radiowestmiddlesex?mp=/stream
+Box UK Radio,https://uk7.internet-radio.com/proxy/boxradiouk?mp=/live
+Gold Instrumental,http://fr1.streamhosting.ch:80/lounge128.mp3
+Lounge Radio Swiss,http://64.95.243.43:8020/stream/1/
+Non Stop Hindi,http://s5.voscast.com:8216/stream
+Shripad Radio,http://jett.shoutca.st:8020/stream/1/
+Hindi Evergreens,http://5.63.151.52:7103/stream/1/
+Diverse FM Hindi,https://carol.epichosts.co.uk:8570/stream/1/
+Mixify Hindi,https://server.mixify.in:8010/stream/1/
+Indifun Radio Hindi,http://162.241.114.203:7000/stream/1/
+Geet Radio - 24/7 Hindi Music,https://server.geetradio.com:8000/stream/1/
+Hits Of Bollywood,http://142.4.219.8:8255/stream/1/
+Radio Digital Malayali ,https://radio.digitalmalayali.in/listen/stream/radio.mp3
+iWiFM,http://94.23.23.97:29270/stream/1/
+Radio Garam Masala,http://99.198.118.250:8019/stream/1/
+BollyHits Radio 128kbps,https://hoth.alonhosting.com:1100/stream/1/
+BollyHits Radio,https://hoth.alonhosting.com:1080/stream/1/
+Mixify 90's Hits,https://server.mixify.in:8000/stream/1/
+Diverse FM,https://carol.epichosts.co.uk:8570/stream/1/
+Taal Radio,http://radio.punjabrocks.com:9998/stream/1/
+Punjab Rocks Radio,http://radio.punjabrocks.com:9988/stream/1/
+DesiZone Radio,http://www.desizone.nl:8000/stream/1/
+Indifun Radio,http://162.241.114.203:7000/stream/1/
+Mehefil Radio,http://mehefil.no-ip.com/stream/1/
+CARIBBEAN SUPER MIX RADIO ,http://198.178.121.76:8063/
+Radio Digital Malayali,https://radio.digitalmalayali.in/listen/stream/radio.mp3
+Hits Of Bollywood,http://142.4.219.8:8255/stream/1/
+Intamixx Radio,http://217.13.107.32:8000/stream/1/
+iWiFM,http://94.23.23.97:29270/stream/1/
+Radio Garam Masala,http://99.198.118.250:8019/stream/1/
+Hasyakattaofficial Malayalam,https://hasyakattaofficial.stream.laut.fm/hasyakattaofficial
+Rdehotties,http://s6.myradiostream.com:15054/stream/1/
+RadioMirchi Kochi,https://stream.aiir.com/dbv0rxpwp6ytv
+Club Fm UAE,https://eu10.fastcast4u.com/clubfmuae
+IntRadio 1,https://stream.aiir.com/dbv0rxpwp6ytv
+RadioMango,https://listen.openstream.co/4635/audio
